@@ -16,10 +16,10 @@ menu:
     url: /
   - title: 关于
     url: /about
-  - title: 联系
-    url: /contact
-  - title: 订阅
-    url: /feed.xml
+#  - title: 联系
+#    url: /contact
+#  - title: 订阅
+#    url: /feed.xml
 
 
 # Social Media Settings
