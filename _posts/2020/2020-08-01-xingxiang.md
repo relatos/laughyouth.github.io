@@ -1,11 +1,15 @@
 ---
 layout: post
-title: 漫画 | 中国程序员VS美国程序员，太形象了...
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 差异到底有多大···
+title: 中国程序员VS美国程序员，太形象了...
+subtitle: 差异到底有多大···
+description: 差异到底有多大···
+image: http://favorites.ren/assets/images/2020/cartoon/xingxiang/xingxiang00.jpg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/xingxiang/xingxiang00.jpg
+category: 工作
+tags:
+  - 中国
+  - 美国
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/xingxiang/xingxiang01.jpg)
