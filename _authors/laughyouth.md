@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: laughyouth
 display_name: 不会笑青年
 position: Chief Editor
-bio: 全网唯二以程序员为主题的漫画公众号。<img src="/assets/img/wechat.jpg" alt="Thiago Rossener" width="200">
+bio: 全网唯二以程序员为主题的漫画公众号。
 github_username: ityouknow
 ---
 
