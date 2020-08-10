@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/nodmilebig.png
+photo: /assets/img/uploads/profile.png
 name: laughyouth
 display_name: 不会笑青年
 position: Chief Editor
