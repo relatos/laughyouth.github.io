@@ -12,7 +12,7 @@ email: ityouknow@126.com
 disqus_username: ityouknow
 show_hero: true
 menu:
-  - title: Home
+  - title: 主页
     url: /
   - title: 关于
     url: /about
