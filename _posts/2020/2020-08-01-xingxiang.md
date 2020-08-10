@@ -5,7 +5,7 @@ subtitle: 差异到底有多大···
 description: 差异到底有多大···
 image: http://favorites.ren/assets/images/2020/cartoon/xingxiang/xingxiang00.jpg
 optimized_image: http://favorites.ren/assets/images/2020/cartoon/xingxiang/xingxiang00.jpg
-category: 工作
+category: work
 tags:
   - 中国
   - 美国
