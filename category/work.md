@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 工作
+title: Work
 slug: work
 description: A category for work related posts.
 ---
