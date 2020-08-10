@@ -1,10 +1,10 @@
 ---
 layout: author
-photo: /assets/img/nosmile.png
+photo: /assets/img/wechat.jpg
 name: laughyouth
 display_name: 不会笑青年
 position: Chief Editor
-bio: 两位超过10年的互联网老板，拍脑门做属于程序员的漫画。
+bio: 全网唯二以程序员为主题的漫画公众号。
 github_username: ityouknow
 ---
 
