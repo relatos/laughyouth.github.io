@@ -5,13 +5,8 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/nosmile.png" alt="Thiago Rossener" width="200">
 
-# About
+# 关于
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+全网唯二以程序员为主题的漫画公众号。作者是两位超过10年的程序员老兵，突然有一天脑回路受到刺激，想做一件有意义的事情，于是在19年“不会笑青年”诞生了。主创：波哥、微笑。

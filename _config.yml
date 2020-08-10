@@ -14,11 +14,11 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: 关于
     url: /about
-  - title: Contact
+  - title: 联系
     url: /contact
-  - title: Feed
+  - title: 订阅
     url: /feed.xml
 
 
