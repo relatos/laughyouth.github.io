@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 漫画 | 疫情之后，我想第一时间见到“你”！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 什么对我们来讲才是最重要的
-lock: need
+title: 疫情之后，我想第一时间见到“你”！
+subtitle: 什么对我们来讲才是最重要的
+description: 什么对我们来讲才是最重要的
+image: http://favorites.ren/assets/images/2020/cartoon/yiqinghou/yiqinghou00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/yiqinghou/yiqinghou00.jpeg
+category: life
+tags:
+  - 新冠
+  - 生命
+  - 思考
+author: laughyouth
 ---
 
 

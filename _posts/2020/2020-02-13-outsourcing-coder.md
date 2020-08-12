@@ -1,14 +1,17 @@
 ---
 layout: post
-title: 漫画 | 外包程序员==二等公民？
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 外包程序员的真实体验!
-lock: need
+title: 外包程序员==二等公民？
+subtitle: 外包程序员的真实体验!
+description: 外包程序员的真实体验!
+image: http://favorites.ren/assets/images/2020/cartoon/outsourcingcoder00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/outsourcingcoder00.jpeg
+category: work
+tags:
+  - 职场
+  - 程序员
+  - 外包
+author: laughyouth
 ---
-
 
 ![](http://favorites.ren/assets/images/2020/cartoon/outsourcingcoder01.jpeg)
 ![](http://favorites.ren/assets/images/2020/cartoon/outsourcingcoder02.jpeg)

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: 漫画 | 疫情前 VS 疫情后，王总变成了小王！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 因为这次疫情，突然明白了好多...
-lock: need
+title: 疫情前 VS 疫情后，王总变成了小王！
+subtitle: 因为这次疫情，突然明白了好多...
+description: 因为这次疫情，突然明白了好多...
+image: http://favorites.ren/assets/images/2020/cartoon/yiqingqianhouvs/yiqingqianhouvs00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/yiqingqianhouvs/yiqingqianhouvs00.jpeg
+category: life
+tags:
+  - 现实
+  - 生活
+  - 新冠
+author: laughyouth
 ---
-
 
 ![](http://favorites.ren/assets/images/2020/cartoon/yiqingqianhouvs/yiqingqianhouvs01.jpeg)
 ![](http://favorites.ren/assets/images/2020/cartoon/yiqingqianhouvs/yiqingqianhouvs02.jpeg)

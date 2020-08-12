@@ -1,10 +1,16 @@
 ---
 layout: post
-title: 漫画 | 十年程序员众生相，他在街头卖煎饼！
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 你丫才是程序员！
+title: 十年程序员众生相，他在街头卖煎饼！
+subtitle: 你丫才是程序员！
+description: 你丫才是程序员！
+image: http://favorites.ren/assets/images/2020/cartoon/zhongshengxiang/zhongshengxiang00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/zhongshengxiang/zhongshengxiang00.jpeg
+category: work
+tags:
+  - 职场
+  - 程序员
+  - 三十
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/zhongshengxiang/zhongshengxiang01.jpg)

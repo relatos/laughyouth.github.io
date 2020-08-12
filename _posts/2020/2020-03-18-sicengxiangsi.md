@@ -1,13 +1,17 @@
 ---
 layout: post
-title: 漫画 | 总感觉【现在的我】以前我就见过！难道我穿越了！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 梦境重现？时空隧道？平行宇宙？
+title: 总感觉【现在的我】以前我就见过！难道我穿越了！
+subtitle: 梦境重现？时空隧道？平行宇宙？
+description: 梦境重现？时空隧道？平行宇宙？
+image: http://favorites.ren/assets/images/2020/cartoon/sicengxiangsi/sicengxiangsi00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/sicengxiangsi/sicengxiangsi00.jpeg
+category: life
+tags:
+  - 科幻
+  - 生命
+  - 经历
+author: laughyouth
 ---
-
 
 ![](http://favorites.ren/assets/images/2020/cartoon/sicengxiangsi/sicengxiangsi01.jpeg)
 ![](http://favorites.ren/assets/images/2020/cartoon/sicengxiangsi/sicengxiangsi02.jpeg)
