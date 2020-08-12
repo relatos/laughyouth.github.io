@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 程序员相亲，真的太太太太太太难了
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 程序员相亲图鉴，内容过于真实！
+title: 程序员相亲，真的太太太太太太难了
+subtitle: 程序员相亲图鉴，内容过于真实！
+description: 程序员相亲图鉴，内容过于真实！
+image: http://favorites.ren/assets/images/2019/cartoon/blinddate00.jpeg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/blinddate00.jpeg
+category: life
+tags:
+  - 程序员
+  - 生活
+  - 情感
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2019/cartoon/blinddate01.jpeg)

@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 漫画 | “失败”的北漂十年，我真的尽力了。。。
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 眼中的光一年不如一年…
-lock: need
+title: “失败”的北漂十年，我真的尽力了。。。
+subtitle: 眼中的光一年不如一年…
+description: 眼中的光一年不如一年…
+image: http://favorites.ren/assets/images/2019/cartoon/failbeipiao00.jpeg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/failbeipiao00.jpeg
+category: life
+tags:
+  - 十年
+  - 经历
+  - 程序员
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2019/cartoon/failbeipiao01.jpg)
