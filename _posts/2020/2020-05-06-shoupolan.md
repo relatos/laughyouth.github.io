@@ -8,7 +8,7 @@ optimized_image: http://favorites.ren/assets/images/2020/cartoon/shoupolan/shoup
 category: life
 tags:
   - 收集
-  - 青年人
+  - 青年
   - 秘密
 author: laughyouth
 ---
