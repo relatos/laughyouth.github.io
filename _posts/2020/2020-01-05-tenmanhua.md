@@ -3,8 +3,8 @@ layout: post
 title: 被福报，被包养，被爆O，19 年最值得阅读的 10 篇漫画！
 subtitle: 我有点意思
 description: 有点意思
-image: http://favorites.ren/assets/images/2020/cartoon/sunling00.jpeg
-optimized_image: http://favorites.ren/assets/images/2020/cartoon/sunling00.jpeg
+image: ![](http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg)
+optimized_image: ![](http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg)
 category: work
 tags:
   - 职场
@@ -12,9 +12,6 @@ tags:
   - 十年
 author: laughyouth
 ---
-
-
-![](http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg)
 
 相比较于文字，漫画给人带来的阅读体验显然是另一个层面上的，2019年公号发布了 18 篇漫画，相信给不少的朋友们带来了欢笑！
 
