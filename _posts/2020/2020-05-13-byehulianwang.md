@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 再见！互联网！！！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 早面对，少遭罪
+title: 再见！互联网！！！
+subtitle: 早面对，少遭罪
+description: 早面对，少遭罪
+image: http://favorites.ren/assets/images/2020/cartoon/byehulianwang/byehulianwang00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/byehulianwang/byehulianwang00.jpeg
+category: work
+tags:
+  - 互联网
+  - 三十
+  - 程序员
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/byehulianwang/byehulianwang01.jpg)

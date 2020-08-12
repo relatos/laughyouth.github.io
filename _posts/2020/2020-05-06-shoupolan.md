@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 确认过眼神，是一起收破烂的人！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 关于当代青年人的11个秘密，被发现了！
+title: 确认过眼神，是一起收破烂的人！
+subtitle: 关于当代青年人的11个秘密，被发现了！
+description: 关于当代青年人的11个秘密，被发现了！
+image: http://favorites.ren/assets/images/2020/cartoon/shoupolan/shoupolan00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/shoupolan/shoupolan00.jpeg
+category: life
+tags:
+  - 收集
+  - 青年人
+  - 秘密
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/shoupolan/shoupolan01.jpg)

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 再见！程序员！！！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 空空荡荡静悄悄的软件园，再也没人加班了
+title: 再见！程序员！！！
+subtitle: 空空荡荡静悄悄的软件园，再也没人加班了
+description: 空空荡荡静悄悄的软件园，再也没人加班了
+image: http://favorites.ren/assets/images/2020/cartoon/byechengxuyuan/byechengxuyuan00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/byechengxuyuan/byechengxuyuan00.jpeg
+category: life
+tags:
+  - 地球
+  - 程序员
+  - 科幻
+author: laughyouth
 ---
 
 2021年10月24日

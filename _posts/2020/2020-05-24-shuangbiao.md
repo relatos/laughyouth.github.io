@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 特朗普：没有人比我更懂“双标”！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 这个真的是他最懂
+title: 特朗普：没有人比我更懂“双标”！
+subtitle: 这个真的是他最懂
+description: 这个真的是他最懂
+image: http://favorites.ren/assets/images/2020/cartoon/wuxing/wuxing00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/wuxing/wuxing00.jpeg
+category: life
+tags:
+  - 特朗普
+  - 双标
+  - 现实
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/shuangbiao/shuangbiao01.jpg)
