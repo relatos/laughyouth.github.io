@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 中国圣诞节 VS 西方圣诞节
+title: 中国圣诞节VS西方圣诞节
 subtitle: 中国人到底是怎么过圣诞节的
 description: 中国人到底是怎么过圣诞节的
 image: http://favorites.ren/assets/images/2019/cartoon/shengdanjie00.jpeg
