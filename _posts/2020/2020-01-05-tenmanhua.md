@@ -3,8 +3,8 @@ layout: post
 title: 被福报，被包养，被爆O，19 年最值得阅读的 10 篇漫画！
 subtitle: 我有点意思
 description: 有点意思
-image: ![](http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg)
-optimized_image: ![](http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg)
+image: http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/tenmanhua01.jpg
 category: work
 tags:
   - 职场
