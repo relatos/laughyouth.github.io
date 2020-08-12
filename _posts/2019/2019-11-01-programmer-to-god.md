@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 漫画 | 程序员成神之路，一年挖坑，五年扛旗，十年成神
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 盘！！！
-lock: need
+title: 程序员成神之路，一年挖坑，五年扛旗，十年成神
+subtitle: 盘！！！
+description: 盘！！！
+image: http://favorites.ren/assets/images/2019/cartoon/togod01.jpg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/togod01.jpg
+category: work
+tags:
+  - 程序员
+  - 职场
+  - 小白
+author: laughyouth
 ---
-
-![](http://favorites.ren/assets/images/2019/cartoon/togod01.jpg)
-
-*作者：阿波  
-漫画师：毛球球*
-
 
 自人类社会诞生以来
 
@@ -81,3 +79,8 @@ lock: need
 最后就是一个字
 
 盘它！！！
+
+
+>作者：不会笑青年 | 漫画师：毛球球
+>
+>**本文原创公众号：不会笑青年，授权转载请联系微信(laughyouth369)**
