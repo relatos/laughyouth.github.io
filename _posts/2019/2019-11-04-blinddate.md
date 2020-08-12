@@ -3,8 +3,8 @@ layout: post
 title: 程序员相亲，真的太太太太太太难了
 subtitle: 程序员相亲图鉴，内容过于真实！
 description: 程序员相亲图鉴，内容过于真实！
-image: http://favorites.ren/assets/images/2019/cartoon/blinddate00.jpeg
-optimized_image: http://favorites.ren/assets/images/2019/cartoon/blinddate00.jpeg
+image: http://favorites.ren/assets/images/2019/cartoon/blinddate00.jpg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/blinddate00.jpg
 category: life
 tags:
   - 程序员
