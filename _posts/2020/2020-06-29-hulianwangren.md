@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 包养吧！互联网人！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 文末有炸弹
+title: 包养吧！互联网人！
+subtitle: 文末有炸弹
+description: 文末有炸弹
+image: http://favorites.ren/assets/images/2020/cartoon/hulianwangren/hulianwangren00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/hulianwangren/hulianwangren00.jpeg
+category: work
+tags:
+  - 互联网
+  - 包养
+  - 职场
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/hulianwangren/hulianwangren01.jpg)

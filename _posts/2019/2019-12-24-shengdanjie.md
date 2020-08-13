@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 中国圣诞节 VS 西方圣诞节
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 中国人到底是怎么过圣诞节的
+title: 中国圣诞节VS西方圣诞节
+subtitle: 中国人到底是怎么过圣诞节的
+description: 中国人到底是怎么过圣诞节的
+image: http://favorites.ren/assets/images/2019/cartoon/shengdanjie00.jpeg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/shengdanjie00.jpeg
+category: life
+tags:
+  - 文化
+  - 圣诞
+  - 节日快乐
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2019/cartoon/shengdanjie01.jpg)

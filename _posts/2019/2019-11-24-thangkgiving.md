@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 感恩节，我TM要感恩全世界！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 感谢领导画大饼，感谢大厂996！
+title: 感恩节，我TM要感恩全世界！
+subtitle: 感谢领导画大饼，感谢大厂996！
+description: 感谢领导画大饼，感谢大厂996！
+image: http://favorites.ren/assets/images/2019/cartoon/thanksgiving00.jpeg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/thanksgiving00.jpeg
+category: life
+tags:
+  - 节日快乐
+  - 职场
+  - 感恩
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2019/cartoon/thanksgiving01.jpeg)

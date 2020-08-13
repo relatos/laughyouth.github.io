@@ -1,38 +1,42 @@
 ---
 layout: post
-title: 漫画 | 让程序员爽，到底有多简单！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 真的很简单！
+title: 让程序员爽，到底有多简单！
+subtitle: 真的很简单！
+description: 真的很简单！
+image: http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh00.jpeg
+category: life
+tags:
+  - 职场
+  - 程序员
+  - 秘密
+author: laughyouth
 ---
-
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight01.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight02.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight03.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight04.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight05.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight06.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight07.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight08.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight09.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight10.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight11.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight12.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight13.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight14.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight15.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight16.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight17.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight18.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight19.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight20.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight21.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight22.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight23.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight24.jpeg)
-![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhight25.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh01.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh02.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh03.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh04.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh05.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh06.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh07.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh08.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh09.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh10.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh11.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh12.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh13.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh14.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh15.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh16.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh17.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh18.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh19.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh20.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh21.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh22.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh23.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh24.jpeg)
+![](http://favorites.ren/assets/images/2020/cartoon/coderhigh/coderhigh25.jpeg)
 
 在很多人印象里，程序员群体是个神秘组织！他们早出晚归，穿着统一的格子衫，背着双肩包，带着厚眼镜，发型有点乱，以发量彰显身份！
 

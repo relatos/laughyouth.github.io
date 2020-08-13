@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 漫画 | 63年后，人类又遭遇了一次超级病毒大爆发，但这次却没那么幸运！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 最可怕的不是悲剧，而是悲剧之后忘记了悲剧！
-lock: need
+title: 63年后，人类又遭遇了一次超级病毒大爆发，但这次却没那么幸运！
+subtitle: 最可怕的不是悲剧，而是悲剧之后忘记了悲剧！
+description: 最可怕的不是悲剧，而是悲剧之后忘记了悲剧！
+image: http://favorites.ren/assets/images/2020/cartoon/supervirus00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/supervirus00.jpeg
+category: life
+tags:
+  - 科幻
+  - 病毒
+  - 地球
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/supervirus01.jpeg)

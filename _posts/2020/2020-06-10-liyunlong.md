@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 如果李云龙是个互联网人
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 二营长，你他娘的意大利炮呢！！！
+title: 如果李云龙是个互联网人
+subtitle: 二营长，你他娘的意大利炮呢！！！
+description: 二营长，你他娘的意大利炮呢！！！
+image: http://favorites.ren/assets/images/2020/cartoon/liyunlong/liyunlong00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/liyunlong/liyunlong00.jpeg
+category: work
+tags:
+  - 互联网
+  - 职场
+  - 新词
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/liyunlong/liyunlong01.jpg)

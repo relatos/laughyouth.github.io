@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 竟然用老子的钱养女人！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 世人都晓神仙好，唯有金银忘不了
+title: 竟然用老子的钱养女人！
+subtitle: 世人都晓神仙好，唯有金银忘不了
+description: 世人都晓神仙好，唯有金银忘不了
+image: http://favorites.ren/assets/images/2020/cartoon/yangnvrena/yangnvrena00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/yangnvrena/yangnvrena00.jpeg
+category: life
+tags:
+  - 善意
+  - 施舍
+  - 习惯
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/yangnvrena/yangnvrena01.jpg)

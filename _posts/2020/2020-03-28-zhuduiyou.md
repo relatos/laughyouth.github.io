@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 猪队友！猪队友！！猪队友！！！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 能动手的就不要讲理了
+title: 猪队友！猪队友！！猪队友！！！
+subtitle: 能动手的就不要讲理了
+description: 能动手的就不要讲理了
+image: http://favorites.ren/assets/images/2020/cartoon/zhuduiyou/zhuduiyou00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/zhuduiyou/zhuduiyou00.jpeg
+category: work
+tags:
+  - 职场
+  - 工作
+  - 合作
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/zhuduiyou/zhuduiyou01.jpg)

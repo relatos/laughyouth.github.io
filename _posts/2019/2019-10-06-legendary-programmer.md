@@ -1,13 +1,17 @@
 ---
 layout: post
-title: 漫画 | 外行对程序员误会有多深！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 传说中的程序员
+title: 外行对程序员误会有多深！
+subtitle: 传说中的程序员
+description: 传说中的程序员
+image: http://favorites.ren/assets/images/2019/cartoon/programmer00.jpeg
+optimized_image: http://favorites.ren/assets/images/2019/cartoon/programmer00.jpeg
+category: life
+tags:
+  - 程序员
+  - 生活
+  - 秘密
+author: laughyouth
 ---
-
 
 程序员如今已经发展成社会的主流职业，以至于街头的王大妈李大爷都能说出一二来，据说他们认为的程序员是这样子的：
 

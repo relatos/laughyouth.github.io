@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 漫画 | 张总让我去他办公室一下！
-category: cartoon
-no-post-nav: true
-tags: [cartoon]
-copyright: cartoon
-excerpt: 我想着这可能是个机会
+title: 张总让我去他办公室一下！
+subtitle: 我想着这可能是个机会
+description: 我想着这可能是个机会
+image: http://favorites.ren/assets/images/2020/cartoon/zhangzong/zhangzong00.jpeg
+optimized_image: http://favorites.ren/assets/images/2020/cartoon/zhangzong/zhangzong00.jpeg
+category: work
+tags:
+  - 程序员
+  - 诈骗
+  - 职场
+author: laughyouth
 ---
 
 ![](http://favorites.ren/assets/images/2020/cartoon/zhangzong/zhangzong01.jpg)
