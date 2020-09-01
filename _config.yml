@@ -9,7 +9,7 @@ tags:
   - theme
   - netlify
 email: ityouknow@126.com
-disqus_username: ityouknow
+#disqus_username: ityouknow
 show_hero: true
 menu:
   - title: 主页
